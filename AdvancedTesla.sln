@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedTesla", "AdvancedTesla\AdvancedTesla.csproj", "{CD7A64C9-5BE3-425A-A63D-2911058FFE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7A64C9-5BE3-425A-A63D-2911058FFE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7A64C9-5BE3-425A-A63D-2911058FFE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7A64C9-5BE3-425A-A63D-2911058FFE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7A64C9-5BE3-425A-A63D-2911058FFE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C770A36-B370-46C5-880F-2092D0311F40}
+	EndGlobalSection
+EndGlobal
