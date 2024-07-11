@@ -21,7 +21,7 @@ namespace AdvancedTesla
                     Cassie.MessageTranslated($"{messageClassD}", $"{textClassD}.", false, false, true);
                     Log.Debug("Class D died on tesla");
                 }
-                else if (ev.TargetOldRole is RoleTypeId.ChaosConscript or RoleTypeId.ChaosMarauder or RoleTypeId.ChaosRepressor or RoleTypeId.ChaosRifleman)
+                else if (ev.TargetOldRole.GetTeam() is Team.ChaosInsurgency)
                 {
                     var messageChaosInsurgency = ReplacePlaceholders(Plugin.Instance.Config.ChaosInsurgencyCassieContent, "ChaosInsurgency");
                     var textChaosInsurgency = ReplacePlaceholders(Plugin.Instance.Config.ChaosInsurgencyCassieText, "ChaosInsurgency");
