@@ -45,15 +45,15 @@ namespace AdvancedTesla
             if(team is "ClassD")
             {
                 string teamMembersAlive = Player.Get(RoleTypeId.ClassD).Count().ToString();
-                Log.Info("classD died");
+                Log.Debug("classD died");
                 return template.Replace("{TeamMembersAlive}", teamMembersAlive);
             } else if (team is "ChaosInsurgency")
             {
                 string teamMembersAlive = Player.Get(Team.ChaosInsurgency).Count().ToString();
-                Log.Info("chaos died");
+                Log.Debug("chaos died");
                 return template.Replace("{TeamMembersAlive}", teamMembersAlive);
             }
-            Log.Info("someone else died");
+            Log.Debug("someone else died");
             return template.Replace("{TeamMembersAlive}", "Unknown team");
         }
     }

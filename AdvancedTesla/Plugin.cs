@@ -10,7 +10,7 @@ namespace AdvancedTesla
         public override string Author => "iksemdem";
         public override string Name => "AdvancedTesla";
         public override string Prefix => "advanced_tesla";
-        public override Version Version => new Version(1, 2, 0);
+        public override Version Version => new Version(1, 2, 2);
         public static Plugin Instance { get; private set; }
 
         public override void OnEnabled()
