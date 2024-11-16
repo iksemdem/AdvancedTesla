@@ -1,7 +1,7 @@
 # An Exiled (SCP:SL) plugin that disables tesla for fundations forces.
 <div align="center">
     
-<img src="https://img.shields.io/github/downloads/iksemdem/CassieFeatures/total?style=for-the-badge&logo=github" alt="Downloads">
+<img src="https://img.shields.io/github/downloads/iksemdem/AdvancedTesla/total?style=for-the-badge&logo=github" alt="Downloads">
 
 </div>
 
