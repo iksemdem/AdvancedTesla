@@ -1,12 +1,15 @@
+
 # An Exiled (SCP:SL) plugin that disables tesla for fundations forces.
 <div align="center">
     
 <img src="https://img.shields.io/github/downloads/iksemdem/AdvancedTesla/total?style=for-the-badge&logo=github" alt="Downloads">
 
 </div>
+
 # My new plugin covers features of this plugin, if you find this useful, you will find my new plugin useful too, so check it out here: [New Plugin](https://github.com/iksemdem/CassieFeatures)
 
-## This plugin is no longer supported, use [New Plugin](https://github.com/iksemdem/CassieFeatures)
+# This plugin is no longer supported. Please use [New Plugin](https://github.com/iksemdem/CassieFeatures)
+
 Plugin that disables tesla for fundation forces, and tells when class d or chaos insurgency are killed with teslas.
 
 It is my second plugin, i think its a lot more useful than my first one, and its not as basic as it.
