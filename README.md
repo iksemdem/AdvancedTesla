@@ -5,6 +5,7 @@
 
 </div>
 # My new plugin covers features of this plugin, if you find this useful, you will find my new plugin useful too, so check it out here: [New Plugin](https://github.com/iksemdem/CassieFeatures)
+
 # This plugin is no longer supported, use [New Plugin](https://github.com/iksemdem/CassieFeatures)
 Plugin that disables tesla for fundation forces, and tells when class d or chaos insurgency are killed with teslas.
 
